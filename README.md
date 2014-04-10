@@ -1,6 +1,7 @@
 # pgpass
 
 [![Build Status](https://travis-ci.org/hoegaarden/pgpass.png?branch=master)](https://travis-ci.org/hoegaarden/pgpass)
+[![Codeship Status](https://www.codeship.io/projects/216cf0a0-a2c0-0131-c5f7-4eb0e3337aca/status)](https://www.codeship.io/projects/216cf0a0-a2c0-0131-c5f7-4eb0e3337aca/status)
 
 ## Install
 
