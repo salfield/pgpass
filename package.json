@@ -3,6 +3,7 @@
   "version": "0.0.3",
   "description": "Module for reading .pgpass",
   "main": "lib/index",
+  "registry": "npm",
   "scripts": {
     "pretest": "chmod 600 ./test/_pgpass",
     "test": "npm run hint && mocha --recursive -R list && npm run coverage",
